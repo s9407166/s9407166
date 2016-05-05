@@ -1,0 +1,33 @@
+  GNU nano 2.3.1                          File: gas_test.c                                                 Modified  
+
+//GAS_c_code.cpp
+
+#include "stdafx.h"
+#include <stdio.h>
+
+int main()
+
+{ 
+//Variables
+int num1, num2;
+int sum, product, num1_and_num2;
+//float f1,f2,f3,fsum,fmul;
+
+//printf("Please enter two numbers in decimal format:\n");
+//scanf_s("%d %d",&num1,&num2);
+num1=15;
+num2=10;
+sum = num1+num2;
+printf("The three decimal numbers: %d %d %d\n",num1.num2,sum);
+printf("The three hexadecimal numbers: %x %x %x\n",num1,num2,sum);
+
+//you mat write conditional cose such if...else
+//your source code here to find the product for num1 and num2
+//your source code here to find the logic for num1 and num2
+//show your results for sum, product, and logic in console
+
+//section for addition and multiplication for floating point number
+
+
+^G Get Help        ^O WriteOut        ^R Read File       ^Y Prev Page       ^K Cut Text        ^C Cur Pos
+^X Exit            ^J Justify         ^W Where Is        ^V Next Page       ^U UnCut Text      ^T To Spell
